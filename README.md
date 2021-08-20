@@ -13,9 +13,9 @@ The Project was a task provided from Exposys Data Labs. We used supervised machi
 2.) Seaborn
 3.) Pandas
 
-Machine Learning Module
+Machine Learning Module => 1.) Sci-kit
 
-1.) Sci-kit
+Dataset => diabetes.csv (imported from kaggle)
 
 Machine learning modules such as, SVM, XGBoost, Logistic Regression and many others libraries were used to get appropriate conclusions. Every library of machine learning provied us with their own accuray scores on the basis of the training and the testing data.
 The Project was further completed along with these names,
